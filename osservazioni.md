@@ -26,11 +26,11 @@ Esito dopo la modifica e spiegazione della correzione:
 il programma stampa la riga richiesta la correzione sta nel mettere: printf("Hello, computational physics!/n")
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: ho incluso hello.c e osservazioni.md perchè cosi posso utilizzare il file sorgente hello.c e osservazioni.md perchè era richiesto
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub: ho controllato la repository su github e ho controllato che i file contenessero le modifiche
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:prima di git pull il file locale su terminale non aveva le modifiche , mentre dopo il pull si è aggiornato subuito, non serve un nuovo clone perchè git pull scarica direttamente i nuovi commit.
 
 ## Step 2 — Eco: prima prova
 
