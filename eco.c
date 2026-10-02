@@ -9,7 +9,9 @@ int main(int argc, char *argv[])
     }
 
     char *testo = argv[1];
-
+    int intero=atoi(argv[2]);
+    double reale=atof(argv[3]);
+    printf(" %s %d %f \n", testo, intero, reale);
     /* TODO: converti gli argomenti in tipi appropriati. Usa atoi o atof
     * prendi ispirazione da:
     * https://en.cppreference.com/c/string/byte/atoi e 
